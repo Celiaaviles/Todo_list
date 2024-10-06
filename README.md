@@ -30,5 +30,10 @@ The application is designed with a responsive layout for mobile devices, ensurin
 1. Run `npm install` to install dependencies.
 2. Run `npm run dev` to start the React development server.
 
+## Ver el proyecto
+
+Puedes ver el proyecto desplegado en [Vercel](https://todo-list-ogilvy.vercel.app/).
+
+
 
 
